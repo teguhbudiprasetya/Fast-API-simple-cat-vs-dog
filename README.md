@@ -15,3 +15,9 @@ Library used:
 - Tensorflow
 - Numpy
 - PIL
+
+Python notebook
+> https://www.kaggle.com/code/teguhbudi/cat-vs-dog-cnn-fastapi-model
+
+Model
+> https://drive.google.com/file/d/1_U8iXj2f-n8n5lR1lhfDiBGxm18y-C-J/view?usp=sharing (145 MB)
